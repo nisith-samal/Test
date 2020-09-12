@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is C223-EA1A
-
- Directory of C:\Users\naveen\Desktop\GIt folder
-
-12-09-2020  18:43    <DIR>          .
-12-09-2020  18:43    <DIR>          ..
-12-09-2020  18:43                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  45,352,759,296 bytes free
+update 1
