@@ -1,3 +1,4 @@
+sqlplus HR/HR;
 drop table test;
 create table test(id number,name varchar2(20));
 insert into test(id,name)(select empno,empname from emp);
